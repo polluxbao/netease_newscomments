@@ -1,0 +1,52 @@
+[
+    {
+        "typeUrl": "central",
+        "typeName": "中央政务",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "locality",
+        "typeName": "地方政务",
+        "typePages": 10
+    },
+    {
+        "typeUrl": "yangqi",
+        "typeName": "央企",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "zwzx_n",
+        "typeName": "政务要闻",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "dffg_n",
+        "typeName": "政策解读",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "gcdt_n",
+        "typeName": "学习之声",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "voice",
+        "typeName": "凡人微光",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "dfdj",
+        "typeName": "党风党建",
+        "typePages": 1
+    },
+    {
+        "typeUrl": "jjjs_n",
+        "typeName": "经济发展",
+        "typePages": 15
+    },
+    {
+        "typeUrl": "cityandfestival_n",
+        "typeName": "文化中国",
+        "typePages": 15
+    }
+]
